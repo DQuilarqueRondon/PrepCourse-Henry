@@ -1,1 +1,1 @@
-Este es un proyecto de prueba de como crear un repositorio y clonarlo a mi computadora
+Este es un proyecto de prueba de como crear un repositorio y clonarlo a mi computadora, realizando prueba 2 sin tutorial
